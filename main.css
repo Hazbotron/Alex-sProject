@@ -1,0 +1,61 @@
+#Header {
+    color:red;
+    size: 20cm;
+    font-weight: bold;
+    align-items: center;
+    word-wrap: normal;
+    margin-left: 500px;
+}
+#Menu {
+    Color: blue;
+    size:20pt;
+    font-size: x-large;
+    font-weight: 1000;
+    image-resolution:inherit;
+    align-items: center;
+    word-wrap: normal;
+    margin-left: 500px;
+}
+#Logo {
+    font-size: xx-large;
+    Color:blue;
+    align-items: center;
+    word-wrap: normal;
+    margin-left: 500px;
+}
+#Content {
+    Color:black;
+    Font: Arial;
+    margin-left: 500px;
+    width: 600px;
+}
+#contact {
+    color:inherit;
+    align-items: center;
+    word-wrap: normal;
+    margin-left: 500px;
+}
+#SocialMedia {
+    color:silver;
+    align-items: center;
+    word-wrap: normal;
+    margin-left: 500px;
+}
+#receipts  {
+    color:black;
+    align-items: center;
+    word-wrap: normal;
+    margin-left: 500px;
+}
+#DonationInstructions {
+    color:blue;
+    align-items: center;
+    word-wrap: normal;
+    margin-left: 500px;
+}
+#PayPal {
+    color:blue;
+    align-items: center;
+    word-wrap: normal;
+    margin-left: 500px;
+}
